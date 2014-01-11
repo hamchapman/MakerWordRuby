@@ -1,4 +1,4 @@
-*README*
+**README**
 
 This started off as a TDD, Ruby version of an [Objective-C command line game](http://github.com/hamchapman/makerword) I made. When I'd written the main logic up in Ruby code I decided that I'd like to make it into a fully-fledged site.
 
